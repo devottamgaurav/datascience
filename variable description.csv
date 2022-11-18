@@ -1,0 +1,20 @@
+Variable,Description
+Restaurant ID,Identification Number
+Restaurant Name,Name Of the Restaurant
+Country Code,Country code
+City,City Name of the Restaurant
+Address,Detailed address of the restaurant
+Locality,Shot Address Of the Restaurant
+Locality Verbose,Long Address of the Restaurant
+Longitude,Longitude
+Latitude,Latitude
+Cuisines,Types Of Cuisines Served
+Average Cost for two,Average Cost if two people visit the Restaurant
+Currency,Local currency
+Has Table booking,Can we book tables in Restaurant? Yes/No
+Has Online delivery,Can we have online delivery ? Yes/No
+Price range,Categorized price between 1 -4
+Aggregate rating,Categorizing ratings between 1-5 
+Rating color,Different colors representing Customer Rating
+Rating text,"Different Rating like Excellent, Very Good ,Good, Avg., Poor, Not Rated"
+Votes,No.Of Votes received by restaurant from customers.
